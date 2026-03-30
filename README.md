@@ -1,5 +1,45 @@
+
 # DevOps Setup Project 🚀
 
+## 📌 Overview
+This project covers complete DevOps beginner setup:
+
+- WSL (Ubuntu) installation  
+- Git & GitHub setup  
+- Docker installation and containers  
+- AWS (EC2, S3, IAM)  
+
+---
+
+## 🖥️ Step 1: WSL Setup
+- Installed Windows Subsystem for Linux (WSL)  
+- Installed Ubuntu  
+- Created user and configured terminal  
+
+---
+
+## 🔧 Step 2: Git Setup
+- Installed Git  
+- Configured username and email  
+- Connected GitHub using SSH key  
+
+---
+
+## 🐳 Step 3: Docker Setup
+- Installed Docker  
+- Ran hello-world container  
+
+---
+
+## ☁️ Step 4: AWS Setup
+- Created EC2 instance  
+- Created S3 bucket  
+- Configured IAM  
+
+---
+
+## 🚀 Conclusion
+This project demonstrates hands-on DevOps setup.
 ## 📌 Overview
 This project covers complete DevOps beginner setup:
 - WSL (Ubuntu) installation
